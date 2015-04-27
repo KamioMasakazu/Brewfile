@@ -3,6 +3,7 @@
 
 ## caskroom/cask
 tap caskroom/cask
+install brew-cask
 
 ## rcmdnk/file
 tap rcmdnk/file
@@ -10,6 +11,8 @@ install brew-file
 
 # Other Homebrew packages
 install git
+install openssl
+install wget
 
 # App Store applications
 appstore ClamXav
